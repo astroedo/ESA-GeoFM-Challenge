@@ -31,7 +31,7 @@ Given precomputed embeddings from multiple GFMs, predict for each 256×256 patch
 
 ## v5 — current best model
 
-Notebook: `notebooks/ESA_v5_final.ipynb` · **Score 0.413**
+Notebook: `notebook/ESA_v5_final.ipynb` · **Score 0.413**
 
 ### Architecture — `FusionNetV4` (SE-UNet + ASPP + cross-attention, dual height heads)
 
