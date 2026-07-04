@@ -1,0 +1,4 @@
+# Official EOTDL CLI. Their docs state Python >= 3.12 is required.
+eotdl
+numpy>=1.23
+rasterio>=1.3

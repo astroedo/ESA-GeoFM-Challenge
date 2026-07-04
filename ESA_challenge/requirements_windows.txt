@@ -1,0 +1,4 @@
+# Install PyTorch separately with the command from https://pytorch.org/get-started/locally/
+# so it matches your CUDA version.
+numpy>=1.23
+rasterio>=1.3
